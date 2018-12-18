@@ -1,0 +1,12 @@
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csprojAssemblyReference.cache
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csproj.CoreCompileInputs.cache
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll.config
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.pdb
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EntityFramework.dll
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EntityFramework.SqlServer.dll
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EntityFramework.xml
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EntityFramework.SqlServer.xml
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csproj.CopyComplete
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.dll
+C:\Users\Long Hack\source\repos\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.pdb
